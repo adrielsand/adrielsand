@@ -1,4 +1,4 @@
-- Hi, I’m @adrielsand
+- Hi, I’m @adrielsand !
 - I :heart: **Linux** and **FOSS**
-- I’m currently learning some **Python** and I know **HTML** and **CSS** fluently.
+- I’m currently learning some **Python** and I can write **HTML** and **CSS** fluently.
 - You can reach me on Mastodon @thebiblelover7@linuxrocks.online or on Telegram @thebiblelover7
